@@ -1,4 +1,5 @@
 # we try to know best workflow with git
+
 git init			# init repo
 git add plik			# dodaje plik do śledzenia
 git commit -m “komentarz”	# 
