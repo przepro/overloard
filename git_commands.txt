@@ -9,3 +9,5 @@ git clone			# klonuje repo
 git push			# push zmiany na brancha
 git status                      # pokazuje jakie pliki zostaly zmienione i potrzebuje add czy comitta
 git remote -v 			#lista remote repo
+
+mała zmiana
