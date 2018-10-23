@@ -1,7 +1,10 @@
 # we try to know best workflow with git
 git init			# init repo
 git add plik			# dodaje plik do śledzenia
-git commit -m “komentarz”	# 
+git commit -m “komentarz”	# Komentarz
 git log				# historia 
-git show			# dokładnie co było robione
-
+git show			# dokładnie co było robione.
+git clone			# klonuje repo
+git push			# push zmiany na brancha
+git status                      # pokazuje jakie pliki zostaly zmienione i potrzebuje add czy comitta
+git remote -v 			#lista remote repo
