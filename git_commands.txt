@@ -1,0 +1,6 @@
+git init			# init repo
+git add plik			# dodaje plik do śledzenia
+git commit -m “komentarz”	# 
+git log				# historia 
+git show			# dokładnie co było robione
+
