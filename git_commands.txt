@@ -12,3 +12,5 @@ git status                      # pokazuje jakie pliki zostaly zmienione i potrz
 git remote -v 			#lista remote repo
 
 mała zmiana
+dopisuje z brancha moj_branch
+kolejna zmiana z brancha moj_branch
