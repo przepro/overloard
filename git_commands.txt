@@ -14,3 +14,5 @@ git remote -v 			#lista remote repo
 mała zmiana
 dopisuje z brancha moj_branch
 kolejna zmiana z brancha moj_branch
+jeszcze kolejna zmiana
+na potrzeby taga v0.2
