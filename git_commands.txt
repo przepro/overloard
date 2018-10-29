@@ -1,4 +1,5 @@
-# we try to know best workflow with git
+## we try to know best workflow with git
+#
 #
 git init			# init repo
 git add plik			# dodaje plik do śledzenia
@@ -9,4 +10,11 @@ git clone			# klonuje repo
 git push			# push zmiany na brancha
 git status                      # pokazuje jakie pliki zostaly zmienione i potrzebuje add czy comitta
 git remote -v 			#lista remote repo
-git revert
+mała zmiana
+dopisuje z brancha moj_branch
+kolejna zmiana z brancha moj_branch
+jeszcze kolejna zmiana
+na potrzeby taga v0.2
+cwiczymy stash
+zmieniamy w kolejnym branchu
+jestesmy nowsi niż originn/master
