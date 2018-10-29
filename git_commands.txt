@@ -16,3 +16,6 @@ dopisuje z brancha moj_branch
 kolejna zmiana z brancha moj_branch
 jeszcze kolejna zmiana
 na potrzeby taga v0.2
+cwiczymy stash
+zmieniamy w kolejnym branchu
+jestesmy nowsi niż originn/master
